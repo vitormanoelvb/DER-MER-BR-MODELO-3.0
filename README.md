@@ -4,6 +4,4 @@
 
 ## (DER) - DIAGRAMA DE ENTIDADE E RELACIONAMENTO
 
-## Baixe o BR MODELO 3.0 (https://sourceforge.net/projects/brmodelo30/) para ter acesso
-
 # Disciplina - Design e Desenvolvimento de Banco de Dados
